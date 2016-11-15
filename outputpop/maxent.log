@@ -1,0 +1,67 @@
+Mon Nov 14 18:16:38 CST 2016
+MaxEnt version 3.3.3k
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/pop/HTI_pop.asc
+Reading samples from cholera.csv
+Read samples: max memory 1908932608, total allocated 548405248, free 336475384, used 211929864, increment 50623608
+Warning: Sample at 0.0, 0.0 in cholera.csv is outside the bounding box of environmental data, skipping
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/pop/HTI_pop.asc size 938440, max memory = 1908932608
+Reading file HTI_pop.asc
+FLOAT, 84782 pixels with data
+readGrid: max memory 1908932608, total allocated 548405248, free 290945224, used 257460024, increment 45530160
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/pop/maxent.cache/HTI_pop.mxe
+Extractor: max memory 1908932608, total allocated 548405248, free 290052272, used 258352976, increment 892952
+Extracting random background and sample data
+84782 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife outputdirectory=/Users/matteo/Documents/MaxEntHaiti/outputpop samplesfile=/Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv environmentallayers=/Users/matteo/Documents/MaxEntHaiti/layers/pop randomseed writebackgroundpredictions responsecurvesexponent writeplotdata fadebyclamping appendtoresultsfile
+Species: cholera
+Layers: HTI_pop
+Layertypes: Continuous
+responsecurves: true
+jackknife: true
+outputdirectory: /Users/matteo/Documents/MaxEntHaiti/outputpop
+samplesfile: /Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv
+environmentallayers: /Users/matteo/Documents/MaxEntHaiti/layers/pop
+randomseed: true
+writebackgroundpredictions: true
+responsecurvesexponent: true
+writeplotdata: true
+fadebyclamping: true
+appendtoresultsfile: true
+
+getSamples: max memory 1908932608, total allocated 548405248, free 285815400, used 262589848, increment 4236872
+Making features
+makeFeatures: max memory 1908932608, total allocated 548405248, free 285779624, used 262625624, increment 35776
+cholera: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+354 samples
+Density: max memory 1908932608, total allocated 548405248, free 283921296, used 264483952, increment 1858328
+linearPredictor: max memory 1908932608, total allocated 548405248, free 283921296, used 264483952, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 548405248, free 283921296, used 264483952, increment 0
+Sequential: max memory 1908932608, total allocated 548405248, free 283921296, used 264483952, increment 0
+Initial loss: 9.213136459278184
+Time since start: 3.02
+320: time = 2.531000 loss = 8.949869
+Resulting gain: 0.2632679516274763
+Projecting...
+Writing file /Users/matteo/Documents/MaxEntHaiti/outputpop/cholera.asc
+Time since start: 4.269
+Writing /Users/matteo/Documents/MaxEntHaiti/outputpop/plots/cholera.png
+cholera response curves
+Response curve: only HTI_pop
+Making features
+makeFeatures: max memory 1908932608, total allocated 530055168, free 461005112, used 69050056, increment -195433896
+cholera HTI_pop: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+354 samples
+Density: max memory 1908932608, total allocated 530055168, free 461001592, used 69053576, increment 3520
+linearPredictor: max memory 1908932608, total allocated 530055168, free 461001592, used 69053576, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 530055168, free 461001592, used 69053576, increment 0
+Sequential: max memory 1908932608, total allocated 530055168, free 461001592, used 69053576, increment 0
+Initial loss: 9.213136459278184
+Time since start: 6.236
+320: time = 1.147000 loss = 8.949869
+Resulting gain: 0.2632679516274763
+cholera response curves
+Ending

@@ -1,0 +1,5 @@
+HTI_water_areas, 0.0, 1.0, 1.0
+linearPredictorNormalizer, 0.0
+densityNormalizer, 298.0
+numBackgroundPoints, 298
+entropy, 5.697093486505428

@@ -1,0 +1,459 @@
+Mon Nov 14 18:02:27 CST 2016
+MaxEnt version 3.3.3k
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_comb_score.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_oct3.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_oct4.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_oct5.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_score.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_total.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_wind_score.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_windspeed.asc
+Reading samples from cholera.csv
+Read samples: max memory 1908932608, total allocated 128974848, free 112864704, used 16110144, increment 3408168
+Warning: Sample at 0.0, 0.0 in cholera.csv is outside the bounding box of environmental data, skipping
+Time since start: 3.119
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_comb_score.asc size 472402, max memory = 1908932608
+Reading file HTI_rain_wind_comb_score.asc
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 128974848, free 83410536, used 45564312, increment 29454168
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_comb_score.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_oct3.asc size 817972, max memory = 1908932608
+Reading file HTI_rain_wind_rain_oct3.asc
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 128974848, free 80204208, used 48770640, increment 3206328
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_rain_oct3.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_oct4.asc size 822597, max memory = 1908932608
+Reading file HTI_rain_wind_rain_oct4.asc
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 128974848, free 83998592, used 44976256, increment -3794384
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_rain_oct4.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_oct5.asc size 820660, max memory = 1908932608
+Reading file HTI_rain_wind_rain_oct5.asc
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 171442176, free 130030992, used 41411184, increment -3565072
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_rain_oct5.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_score.asc size 474895, max memory = 1908932608
+Reading file HTI_rain_wind_rain_score.asc
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 171442176, free 110857080, used 60585096, increment 19173912
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_rain_score.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_rain_total.asc size 444199, max memory = 1908932608
+Reading file HTI_rain_wind_rain_total.asc
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 171442176, free 90625264, used 80816912, increment 20231816
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_rain_total.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_wind_score.asc size 427779, max memory = 1908932608
+Reading file HTI_rain_wind_wind_score.asc
+Time since start: 4.453
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 171966464, free 136027152, used 35939312, increment -44877600
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_wind_score.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/HTI_rain_wind_windspeed.asc size 536057, max memory = 1908932608
+Reading file HTI_rain_wind_windspeed.asc
+FLOAT, 33292 pixels with data
+readGrid: max memory 1908932608, total allocated 171966464, free 113030728, used 58935736, increment 22996424
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/rainwind/maxent.cache/HTI_rain_wind_windspeed.mxe
+Extractor: max memory 1908932608, total allocated 171966464, free 112116936, used 59849528, increment 913792
+Extracting random background and sample data
+Warning: Sample at -72.72151, 19.931961 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.72151, 19.931961 which has no environmental data
+Warning: Sample at -72.720417, 19.931667 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.720417, 19.931667 which has no environmental data
+Warning: Sample at -72.61747, 19.89172 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.61747, 19.89172 which has no environmental data
+Warning: Sample at -72.620316, 19.892075 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.620316, 19.892075 which has no environmental data
+Warning: Sample at -72.515121, 19.83887 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.515121, 19.83887 which has no environmental data
+Warning: Sample at -71.838169, 19.666978 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -71.838169, 19.666978 which has no environmental data
+Warning: Sample at -73.147942, 19.62502 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -73.147942, 19.62502 which has no environmental data
+Warning: Sample at -74.30725, 18.64856 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -74.30725, 18.64856 which has no environmental data
+Warning: Sample at -74.278498, 18.647589 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -74.278498, 18.647589 which has no environmental data
+Warning: Sample at -72.36687, 18.53058 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.36687, 18.53058 which has no environmental data
+Warning: Sample at -72.86469, 18.434144 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.86469, 18.434144 which has no environmental data
+Warning: Sample at -72.063624, 18.237853 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -72.063624, 18.237853 which has no environmental data
+Warning: Sample at -73.81247, 18.07627 in cholera.csv is missing some environmental data (e.g. HTI_rain_wind_comb_score)
+Warning: Skipping sample at -73.81247, 18.07627 which has no environmental data
+Time since start: 15.366
+33292 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife outputformat=cumulative outputdirectory=/Users/matteo/Documents/MaxEntHaiti/output samplesfile=/Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv environmentallayers=/Users/matteo/Documents/MaxEntHaiti/layers/rainwind randomseed writebackgroundpredictions responsecurvesexponent writeplotdata fadebyclamping appendtoresultsfile
+Species: cholera
+Layers: HTI_rain_wind_comb_score HTI_rain_wind_rain_oct3 HTI_rain_wind_rain_oct4 HTI_rain_wind_rain_oct5 HTI_rain_wind_rain_score HTI_rain_wind_rain_total HTI_rain_wind_wind_score HTI_rain_wind_windspeed
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+responsecurves: true
+jackknife: true
+outputformat: cumulative
+outputdirectory: /Users/matteo/Documents/MaxEntHaiti/output
+samplesfile: /Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv
+environmentallayers: /Users/matteo/Documents/MaxEntHaiti/layers/rainwind
+randomseed: true
+writebackgroundpredictions: true
+responsecurvesexponent: true
+writeplotdata: true
+fadebyclamping: true
+appendtoresultsfile: true
+
+getSamples: max memory 1908932608, total allocated 171966464, free 81690376, used 90276088, increment 30426560
+Making features
+makeFeatures: max memory 1908932608, total allocated 237502464, free 199512008, used 37990456, increment -52285632
+cholera: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+Time since start: 16.755
+338 samples
+Density: max memory 1908932608, total allocated 237502464, free 189887024, used 47615440, increment 9624984
+linearPredictor: max memory 1908932608, total allocated 237502464, free 189807008, used 47695456, increment 80016
+FeaturedSpace: max memory 1908932608, total allocated 237502464, free 189807008, used 47695456, increment 0
+Sequential: max memory 1908932608, total allocated 237502464, free 189807008, used 47695456, increment 0
+Initial loss: 9.210340371976184
+Time since start: 22.548
+500: time = 5.690000 loss = 8.988393
+Resulting gain: 0.22194694505198775
+Time since start: 24.522
+Projecting...
+Writing file /Users/matteo/Documents/MaxEntHaiti/output/cholera.asc
+Writing /Users/matteo/Documents/MaxEntHaiti/output/plots/cholera.png
+Time since start: 26.253
+cholera response curves
+Time since start: 27.33
+Response curve: only HTI_rain_wind_comb_score
+Making features
+makeFeatures: max memory 1908932608, total allocated 322437120, free 88409744, used 234027376, increment 186331920
+cholera HTI_rain_wind_comb_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 322437120, free 88409744, used 234027376, increment 0
+linearPredictor: max memory 1908932608, total allocated 322437120, free 88409744, used 234027376, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 322437120, free 88409744, used 234027376, increment 0
+Sequential: max memory 1908932608, total allocated 322437120, free 88409744, used 234027376, increment 0
+Initial loss: 9.210340371976184
+300: time = 0.801000 loss = 9.192054
+Resulting gain: 0.018286077961308322
+cholera response curves
+Time since start: 28.354
+Response curve: only HTI_rain_wind_rain_oct3
+Making features
+makeFeatures: max memory 1908932608, total allocated 450363392, free 376802504, used 73560888, increment -160466488
+cholera HTI_rain_wind_rain_oct3: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450363392, free 376802504, used 73560888, increment 0
+linearPredictor: max memory 1908932608, total allocated 450363392, free 370599056, used 79764336, increment 6203448
+FeaturedSpace: max memory 1908932608, total allocated 450363392, free 370599056, used 79764336, increment 0
+Sequential: max memory 1908932608, total allocated 450363392, free 370599056, used 79764336, increment 0
+Initial loss: 9.210340371976184
+Time since start: 29.938
+340: time = 1.522000 loss = 9.093473
+Resulting gain: 0.11686696443867639
+cholera response curves
+Response curve: only HTI_rain_wind_rain_oct4
+Making features
+makeFeatures: max memory 1908932608, total allocated 450363392, free 295068032, used 155295360, increment 75531024
+cholera HTI_rain_wind_rain_oct4: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450363392, free 295068032, used 155295360, increment 0
+linearPredictor: max memory 1908932608, total allocated 450363392, free 295068032, used 155295360, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 450363392, free 295068032, used 155295360, increment 0
+Sequential: max memory 1908932608, total allocated 450363392, free 295068032, used 155295360, increment 0
+Initial loss: 9.210340371976184
+Time since start: 32.532
+440: time = 2.150000 loss = 9.139868
+Resulting gain: 0.07047266097152693
+cholera response curves
+Response curve: only HTI_rain_wind_rain_oct5
+Making features
+makeFeatures: max memory 1908932608, total allocated 450363392, free 193262888, used 257100504, increment 101805144
+cholera HTI_rain_wind_rain_oct5: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450363392, free 193262888, used 257100504, increment 0
+linearPredictor: max memory 1908932608, total allocated 450363392, free 193262888, used 257100504, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 450363392, free 193262888, used 257100504, increment 0
+Sequential: max memory 1908932608, total allocated 450363392, free 193262888, used 257100504, increment 0
+Initial loss: 9.210340371976184
+Time since start: 33.711
+200: time = 0.849000 loss = 9.137130
+Resulting gain: 0.07321079011948939
+cholera response curves
+Response curve: only HTI_rain_wind_rain_score
+Making features
+makeFeatures: max memory 1908932608, total allocated 450363392, free 146293976, used 304069416, increment 46968912
+cholera HTI_rain_wind_rain_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450363392, free 146293976, used 304069416, increment 0
+linearPredictor: max memory 1908932608, total allocated 450363392, free 146293976, used 304069416, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 450363392, free 146293976, used 304069416, increment 0
+Sequential: max memory 1908932608, total allocated 450363392, free 146293976, used 304069416, increment 0
+Initial loss: 9.210340371976184
+Time since start: 35.562
+360: time = 1.719000 loss = 9.179264
+Resulting gain: 0.03107592336933962
+cholera response curves
+Response curve: only HTI_rain_wind_rain_total
+Making features
+makeFeatures: max memory 1908932608, total allocated 450363392, free 88240536, used 362122856, increment 58053440
+cholera HTI_rain_wind_rain_total: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450363392, free 88240536, used 362122856, increment 0
+linearPredictor: max memory 1908932608, total allocated 450363392, free 88240536, used 362122856, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 450363392, free 88240536, used 362122856, increment 0
+Sequential: max memory 1908932608, total allocated 450363392, free 88240536, used 362122856, increment 0
+Initial loss: 9.210340371976184
+Time since start: 37.596
+360: time = 1.851000 loss = 9.179400
+Resulting gain: 0.030939987972617544
+cholera response curves
+Response curve: only HTI_rain_wind_wind_score
+Making features
+makeFeatures: max memory 1908932608, total allocated 450887680, free 377177328, used 73710352, increment -288412504
+cholera HTI_rain_wind_wind_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450887680, free 377177328, used 73710352, increment 0
+linearPredictor: max memory 1908932608, total allocated 450887680, free 377177328, used 73710352, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 450887680, free 377177328, used 73710352, increment 0
+Sequential: max memory 1908932608, total allocated 450887680, free 377177328, used 73710352, increment 0
+Initial loss: 9.210340371976184
+120: time = 0.458000 loss = 9.201117
+Resulting gain: 0.009223575487188995
+cholera response curves
+Response curve: only HTI_rain_wind_windspeed
+Making features
+makeFeatures: max memory 1908932608, total allocated 450887680, free 359343320, used 91544360, increment 17834008
+cholera HTI_rain_wind_windspeed: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450887680, free 359343320, used 91544360, increment 0
+linearPredictor: max memory 1908932608, total allocated 450887680, free 359343320, used 91544360, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 450887680, free 359343320, used 91544360, increment 0
+Sequential: max memory 1908932608, total allocated 450887680, free 359343320, used 91544360, increment 0
+Initial loss: 9.210340371976184
+120: time = 0.237000 loss = 9.201219
+Resulting gain: 0.00912108183339555
+cholera response curves
+Time since start: 39.772
+Jackknife: leave HTI_rain_wind_comb_score out
+Making features
+makeFeatures: max memory 1908932608, total allocated 450887680, free 305314968, used 145572712, increment 54028352
+cholera HTI_rain_wind_comb_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 450887680, free 293105592, used 157782088, increment 12209376
+linearPredictor: max memory 1908932608, total allocated 450887680, free 293105592, used 157782088, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 450887680, free 293105592, used 157782088, increment 0
+Sequential: max memory 1908932608, total allocated 450887680, free 293105592, used 157782088, increment 0
+Initial loss: 9.210340371976184
+Time since start: 45.689
+500: time = 5.739000 loss = 8.990144
+Jackknife: leave HTI_rain_wind_rain_oct3 out
+Making features
+makeFeatures: max memory 1908932608, total allocated 654835712, free 374136056, used 280699656, increment 122917568
+cholera HTI_rain_wind_rain_oct3: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 654835712, free 374136056, used 280699656, increment 0
+linearPredictor: max memory 1908932608, total allocated 654835712, free 374136056, used 280699656, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 654835712, free 374136056, used 280699656, increment 0
+Sequential: max memory 1908932608, total allocated 654835712, free 374136056, used 280699656, increment 0
+Initial loss: 9.210340371976184
+Time since start: 50.705
+500: time = 4.743000 loss = 9.017928
+Jackknife: leave HTI_rain_wind_rain_oct4 out
+Making features
+makeFeatures: max memory 1908932608, total allocated 656408576, free 499376496, used 157032080, increment -123667576
+cholera HTI_rain_wind_rain_oct4: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 656408576, free 489335880, used 167072696, increment 10040616
+linearPredictor: max memory 1908932608, total allocated 656408576, free 489335880, used 167072696, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 656408576, free 489335880, used 167072696, increment 0
+Sequential: max memory 1908932608, total allocated 656408576, free 489335880, used 167072696, increment 0
+Initial loss: 9.210340371976184
+Time since start: 56.633
+500: time = 5.725000 loss = 8.991258
+Jackknife: leave HTI_rain_wind_rain_oct5 out
+Making features
+makeFeatures: max memory 1908932608, total allocated 656408576, free 78171736, used 578236840, increment 411164144
+cholera HTI_rain_wind_rain_oct5: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 656408576, free 68129808, used 588278768, increment 10041928
+linearPredictor: max memory 1908932608, total allocated 656408576, free 68129808, used 588278768, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 656408576, free 68129808, used 588278768, increment 0
+Sequential: max memory 1908932608, total allocated 656408576, free 68129808, used 588278768, increment 0
+Initial loss: 9.210340371976184
+Time since start: 59.919
+500: time = 3.100000 loss = 9.009346
+Jackknife: leave HTI_rain_wind_rain_score out
+Making features
+makeFeatures: max memory 1908932608, total allocated 628097024, free 170220264, used 457876760, increment -130402008
+cholera HTI_rain_wind_rain_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 628097024, free 160471704, used 467625320, increment 9748560
+linearPredictor: max memory 1908932608, total allocated 628097024, free 160471704, used 467625320, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 628097024, free 160471704, used 467625320, increment 0
+Sequential: max memory 1908932608, total allocated 628097024, free 160471704, used 467625320, increment 0
+Initial loss: 9.210340371976184
+Time since start: 63.926
+500: time = 3.640000 loss = 8.988719
+Jackknife: leave HTI_rain_wind_rain_total out
+Making features
+makeFeatures: max memory 1908932608, total allocated 782237696, free 375989872, used 406247824, increment -61377496
+cholera HTI_rain_wind_rain_total: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 782237696, free 375989872, used 406247824, increment 0
+linearPredictor: max memory 1908932608, total allocated 782237696, free 375989872, used 406247824, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 782237696, free 375989872, used 406247824, increment 0
+Sequential: max memory 1908932608, total allocated 782237696, free 375989872, used 406247824, increment 0
+Initial loss: 9.210340371976184
+Time since start: 69.581
+500: time = 5.318000 loss = 8.988457
+Jackknife: leave HTI_rain_wind_wind_score out
+Making features
+makeFeatures: max memory 1908932608, total allocated 746061824, free 554995360, used 191066464, increment -215181360
+cholera HTI_rain_wind_wind_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 746061824, free 542828256, used 203233568, increment 12167104
+linearPredictor: max memory 1908932608, total allocated 746061824, free 542828256, used 203233568, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 746061824, free 542828256, used 203233568, increment 0
+Sequential: max memory 1908932608, total allocated 746061824, free 542828256, used 203233568, increment 0
+Initial loss: 9.210340371976184
+Time since start: 74.976
+500: time = 5.220000 loss = 8.988195
+Jackknife: leave HTI_rain_wind_windspeed out
+Making features
+makeFeatures: max memory 1908932608, total allocated 746061824, free 53910360, used 692151464, increment 488917896
+cholera HTI_rain_wind_windspeed: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 715128832, free 652984616, used 62144216, increment -630007248
+linearPredictor: max memory 1908932608, total allocated 715128832, free 652984616, used 62144216, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 715128832, free 652984616, used 62144216, increment 0
+Sequential: max memory 1908932608, total allocated 715128832, free 652984616, used 62144216, increment 0
+Initial loss: 9.210340371976184
+Time since start: 78.584
+500: time = 3.211000 loss = 8.989026
+Jackknife: only HTI_rain_wind_comb_score
+Making features
+makeFeatures: max memory 1908932608, total allocated 715128832, free 185337688, used 529791144, increment 467646928
+cholera HTI_rain_wind_comb_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 715128832, free 185337688, used 529791144, increment 0
+linearPredictor: max memory 1908932608, total allocated 715128832, free 185337688, used 529791144, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 715128832, free 185337688, used 529791144, increment 0
+Sequential: max memory 1908932608, total allocated 715128832, free 185337688, used 529791144, increment 0
+Initial loss: 9.210340371976184
+Time since start: 79.76
+300: time = 1.143000 loss = 9.192054
+Res.gain: 0.018286077961308322
+Jackknife: only HTI_rain_wind_rain_oct3
+Making features
+makeFeatures: max memory 1908932608, total allocated 715128832, free 144713248, used 570415584, increment 40624440
+cholera HTI_rain_wind_rain_oct3: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 715128832, free 133067336, used 582061496, increment 11645912
+linearPredictor: max memory 1908932608, total allocated 715128832, free 133067336, used 582061496, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 715128832, free 133067336, used 582061496, increment 0
+Sequential: max memory 1908932608, total allocated 715128832, free 133067336, used 582061496, increment 0
+Initial loss: 9.210340371976184
+Time since start: 80.779
+340: time = 0.995000 loss = 9.093473
+Res.gain: 0.11686696443867639
+Jackknife: only HTI_rain_wind_rain_oct4
+Making features
+makeFeatures: max memory 1908932608, total allocated 715128832, free 67890720, used 647238112, increment 65176616
+cholera HTI_rain_wind_rain_oct4: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 715128832, free 67890720, used 647238112, increment 0
+linearPredictor: max memory 1908932608, total allocated 715128832, free 67890720, used 647238112, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 715128832, free 67890720, used 647238112, increment 0
+Sequential: max memory 1908932608, total allocated 715128832, free 67890720, used 647238112, increment 0
+Initial loss: 9.210340371976184
+Time since start: 82.27
+440: time = 1.468000 loss = 9.139868
+Res.gain: 0.07047266097152693
+Jackknife: only HTI_rain_wind_rain_oct5
+Making features
+makeFeatures: max memory 1908932608, total allocated 681574400, free 561827248, used 119747152, increment -527490960
+cholera HTI_rain_wind_rain_oct5: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 681574400, free 561827248, used 119747152, increment 0
+linearPredictor: max memory 1908932608, total allocated 681574400, free 561827248, used 119747152, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 681574400, free 561827248, used 119747152, increment 0
+Sequential: max memory 1908932608, total allocated 681574400, free 561827248, used 119747152, increment 0
+Initial loss: 9.210340371976184
+200: time = 0.365000 loss = 9.137130
+Res.gain: 0.07321079011948939
+Jackknife: only HTI_rain_wind_rain_score
+Making features
+makeFeatures: max memory 1908932608, total allocated 681574400, free 513545528, used 168028872, increment 48281720
+cholera HTI_rain_wind_rain_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 681574400, free 513545528, used 168028872, increment 0
+linearPredictor: max memory 1908932608, total allocated 681574400, free 513545528, used 168028872, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 681574400, free 513545528, used 168028872, increment 0
+Sequential: max memory 1908932608, total allocated 681574400, free 513545528, used 168028872, increment 0
+Initial loss: 9.210340371976184
+Time since start: 83.477
+360: time = 0.804000 loss = 9.179264
+Res.gain: 0.03107592336933962
+Jackknife: only HTI_rain_wind_rain_total
+Making features
+makeFeatures: max memory 1908932608, total allocated 681574400, free 462282120, used 219292280, increment 51263408
+cholera HTI_rain_wind_rain_total: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 681574400, free 462282120, used 219292280, increment 0
+linearPredictor: max memory 1908932608, total allocated 681574400, free 462282120, used 219292280, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 681574400, free 462282120, used 219292280, increment 0
+Sequential: max memory 1908932608, total allocated 681574400, free 462282120, used 219292280, increment 0
+Initial loss: 9.210340371976184
+360: time = 0.957000 loss = 9.179400
+Res.gain: 0.030939987972617544
+Jackknife: only HTI_rain_wind_wind_score
+Making features
+makeFeatures: max memory 1908932608, total allocated 681574400, free 422338992, used 259235408, increment 39943128
+cholera HTI_rain_wind_wind_score: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 681574400, free 421795120, used 259779280, increment 543872
+linearPredictor: max memory 1908932608, total allocated 681574400, free 421795120, used 259779280, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 681574400, free 421795120, used 259779280, increment 0
+Sequential: max memory 1908932608, total allocated 681574400, free 421795120, used 259779280, increment 0
+Initial loss: 9.210340371976184
+Time since start: 84.672
+120: time = 0.202000 loss = 9.201117
+Res.gain: 0.009223575487188995
+Jackknife: only HTI_rain_wind_windspeed
+Making features
+makeFeatures: max memory 1908932608, total allocated 681574400, free 408953768, used 272620632, increment 12841352
+cholera HTI_rain_wind_windspeed: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+338 samples
+Density: max memory 1908932608, total allocated 681574400, free 408953768, used 272620632, increment 0
+linearPredictor: max memory 1908932608, total allocated 681574400, free 408953768, used 272620632, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 681574400, free 408953768, used 272620632, increment 0
+Sequential: max memory 1908932608, total allocated 681574400, free 408953768, used 272620632, increment 0
+Initial loss: 9.210340371976184
+120: time = 0.183000 loss = 9.201219
+Res.gain: 0.00912108183339555
+Ending

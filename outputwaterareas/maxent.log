@@ -1,0 +1,786 @@
+Mon Nov 14 18:22:18 CST 2016
+MaxEnt version 3.3.3k
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/wareas/HTI_water_areas.asc
+Reading samples from cholera.csv
+Read samples: max memory 1908932608, total allocated 530055168, free 125383728, used 404671440, increment 87543064
+Warning: Sample at -71.75, 19.166667 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.723428, 19.240644 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.694767, 19.234567 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.750002, 19.049998 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.259101, 18.559778 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.161063, 18.533918 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.45329, 18.40558 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.068092, 18.559733 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.209554, 18.508651 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.000047, 18.536696 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.943243, 18.471583 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.11801, 18.645613 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.137916, 18.595286 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.111399, 18.545621 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.208942, 18.587256 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.157489, 18.662431 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.906337, 18.518794 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.30725, 18.64856 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.278498, 18.647589 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.237501, 18.630669 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.259101, 18.559778 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.313227, 18.550484 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.35058, 18.490001 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.454085, 18.489921 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.398658, 18.460636 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.422023, 18.562399 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.381711, 18.397674 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.892602, 18.567626 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.951431, 18.505214 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.994745, 18.534412 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.062376, 18.509298 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.040597, 18.515351 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.901086, 18.435078 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.891019, 18.479115 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.068698, 18.460373 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.062048, 18.428999 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.026138, 18.539153 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.333172, 18.5447 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.247092, 18.53786 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.316054, 18.617023 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.273938, 18.481394 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.732011, 19.547779 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.76125, 19.53002 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.732011, 19.547779 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.719786, 19.549002 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.693153, 19.447666 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.692743, 19.449516 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.35, 18.583333 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.70783, 19.92455 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.72151, 19.931961 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.777763, 20.046705 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.720417, 19.931667 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.82096, 19.94537 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.832282, 19.93525 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.832747, 19.93535 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.774676, 19.945276 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.724689, 20.019014 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.663548, 20.010514 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.864207, 20.038184 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.791197, 20.036529 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.788635, 20.044701 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.707834, 19.924548 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at 0.0, 0.0 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.863636, 18.303719 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.958119, 18.305891 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.832342, 18.30613 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.764176, 18.303191 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.761431, 18.300737 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.666667, 18.083334 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.929693, 18.094216 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.397856, 18.281292 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.218883, 18.280881 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.02541, 18.24045 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.09752, 18.24903 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.86564, 18.31226 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.093333, 18.317749 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.219134, 18.307596 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -74.332899, 18.342306 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.723619, 18.236692 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.292789, 18.290585 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.541831, 18.238269 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.326376, 18.231652 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.30442, 18.247807 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.397879, 18.231002 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.66609, 18.26783 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.755174, 18.183016 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.788837, 18.212487 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.948773, 18.231493 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.954559, 18.26344 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.003, 18.188 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -72.063624, 18.237853 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.97165, 18.264678 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.894717, 18.259111 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.853079, 18.215464 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.757139, 18.042243 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -71.760693, 18.144125 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.81247, 18.07627 in cholera.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -73.88899, 18.203 in cholera.csv is outside the bounding box of environmental data, skipping
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/wareas/HTI_water_areas.asc size 290151, max memory = 1908932608
+Reading file HTI_water_areas.asc
+FLOAT, 298 pixels with data
+readGrid: max memory 1908932608, total allocated 530055168, free 110251072, used 419804096, increment 15132656
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/wareas/maxent.cache/HTI_water_areas.mxe
+Extractor: max memory 1908932608, total allocated 530055168, free 110248776, used 419806392, increment 2296
+Extracting random background and sample data
+Warning: Sample at -72.696934, 19.912982 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.696934, 19.912982 which has no environmental data
+Warning: Sample at -72.671295, 19.908019 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.671295, 19.908019 which has no environmental data
+Warning: Sample at -73.195771, 19.905719 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.195771, 19.905719 which has no environmental data
+Warning: Sample at -72.793, 19.90543 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.793, 19.90543 which has no environmental data
+Warning: Sample at -72.655338, 19.906045 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.655338, 19.906045 which has no environmental data
+Warning: Sample at -72.725487, 19.895272 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.725487, 19.895272 which has no environmental data
+Warning: Sample at -72.61747, 19.89172 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.61747, 19.89172 which has no environmental data
+Warning: Sample at -72.620316, 19.892075 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.620316, 19.892075 which has no environmental data
+Warning: Sample at -72.691693, 19.884279 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.691693, 19.884279 which has no environmental data
+Warning: Sample at -72.691693, 19.884279 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.691693, 19.884279 which has no environmental data
+Warning: Sample at -72.691693, 19.884279 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.691693, 19.884279 which has no environmental data
+Warning: Sample at -72.691693, 19.884279 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.691693, 19.884279 which has no environmental data
+Warning: Sample at -72.691693, 19.884279 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.691693, 19.884279 which has no environmental data
+Warning: Sample at -72.673257, 19.885054 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.673257, 19.885054 which has no environmental data
+Warning: Sample at -73.076111, 19.880131 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.076111, 19.880131 which has no environmental data
+Warning: Sample at -73.013976, 19.875131 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.013976, 19.875131 which has no environmental data
+Warning: Sample at -72.946661, 19.876591 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.946661, 19.876591 which has no environmental data
+Warning: Sample at -72.8345, 19.87508 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.8345, 19.87508 which has no environmental data
+Warning: Sample at -72.617726, 19.875184 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.617726, 19.875184 which has no environmental data
+Warning: Sample at -72.696816, 19.872484 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.696816, 19.872484 which has no environmental data
+Warning: Sample at -72.696816, 19.872484 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.696816, 19.872484 which has no environmental data
+Warning: Sample at -72.696816, 19.872484 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.696816, 19.872484 which has no environmental data
+Warning: Sample at -72.696816, 19.872484 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.696816, 19.872484 which has no environmental data
+Warning: Sample at -72.696816, 19.872484 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.696816, 19.872484 which has no environmental data
+Warning: Sample at -72.625602, 19.862093 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.625602, 19.862093 which has no environmental data
+Warning: Sample at -72.617938, 19.865546 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.617938, 19.865546 which has no environmental data
+Warning: Sample at -73.186072, 19.8575 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.186072, 19.8575 which has no environmental data
+Warning: Sample at -72.911695, 19.851856 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.911695, 19.851856 which has no environmental data
+Warning: Sample at -72.713029, 19.849735 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.713029, 19.849735 which has no environmental data
+Warning: Sample at -73.174203, 19.847813 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.174203, 19.847813 which has no environmental data
+Warning: Sample at -73.174203, 19.847813 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.174203, 19.847813 which has no environmental data
+Warning: Sample at -72.613725, 19.845725 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.613725, 19.845725 which has no environmental data
+Warning: Sample at -72.515121, 19.83887 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.515121, 19.83887 which has no environmental data
+Warning: Sample at -73.13338, 19.83061 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.13338, 19.83061 which has no environmental data
+Warning: Sample at -73.127841, 19.830017 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.127841, 19.830017 which has no environmental data
+Warning: Sample at -72.940058, 19.829337 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.940058, 19.829337 which has no environmental data
+Warning: Sample at -73.302642, 19.822858 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.302642, 19.822858 which has no environmental data
+Warning: Sample at -72.891141, 19.820005 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.891141, 19.820005 which has no environmental data
+Warning: Sample at -72.683728, 19.812494 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.683728, 19.812494 which has no environmental data
+Warning: Sample at -72.57187, 19.812163 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.57187, 19.812163 which has no environmental data
+Warning: Sample at -73.375096, 19.803521 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.375096, 19.803521 which has no environmental data
+Warning: Sample at -73.108253, 19.803414 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.108253, 19.803414 which has no environmental data
+Warning: Sample at -73.07804, 19.80091 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.07804, 19.80091 which has no environmental data
+Warning: Sample at -72.901126, 19.79478 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.901126, 19.79478 which has no environmental data
+Warning: Sample at -72.861712, 19.795568 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.861712, 19.795568 which has no environmental data
+Warning: Sample at -72.861712, 19.795568 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.861712, 19.795568 which has no environmental data
+Warning: Sample at -72.861712, 19.795568 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.861712, 19.795568 which has no environmental data
+Warning: Sample at -72.861712, 19.795568 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.861712, 19.795568 which has no environmental data
+Warning: Sample at -72.770533, 19.794254 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.770533, 19.794254 which has no environmental data
+Warning: Sample at -72.797069, 19.782552 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.797069, 19.782552 which has no environmental data
+Warning: Sample at -73.345964, 19.778396 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.345964, 19.778396 which has no environmental data
+Warning: Sample at -73.094406, 19.764777 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.094406, 19.764777 which has no environmental data
+Warning: Sample at -72.803378, 19.761409 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.803378, 19.761409 which has no environmental data
+Warning: Sample at -72.39532, 19.76028 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.39532, 19.76028 which has no environmental data
+Warning: Sample at -72.206315, 19.76244 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.206315, 19.76244 which has no environmental data
+Warning: Sample at -72.206018, 19.753814 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.206018, 19.753814 which has no environmental data
+Warning: Sample at -73.209117, 19.748654 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.209117, 19.748654 which has no environmental data
+Warning: Sample at -72.865127, 19.742753 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.865127, 19.742753 which has no environmental data
+Warning: Sample at -72.215753, 19.746231 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.215753, 19.746231 which has no environmental data
+Warning: Sample at -72.430088, 19.737009 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.430088, 19.737009 which has no environmental data
+Warning: Sample at -73.137378, 19.726489 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.137378, 19.726489 which has no environmental data
+Warning: Sample at -72.894031, 19.726199 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.894031, 19.726199 which has no environmental data
+Warning: Sample at -72.11915, 19.72753 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.11915, 19.72753 which has no environmental data
+Warning: Sample at -72.40192, 19.70745 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.40192, 19.70745 which has no environmental data
+Warning: Sample at -73.389113, 19.698681 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.389113, 19.698681 which has no environmental data
+Warning: Sample at -73.389113, 19.698681 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.389113, 19.698681 which has no environmental data
+Warning: Sample at -73.347442, 19.691051 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.347442, 19.691051 which has no environmental data
+Warning: Sample at -73.33593, 19.69297 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.33593, 19.69297 which has no environmental data
+Warning: Sample at -73.200027, 19.691356 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.200027, 19.691356 which has no environmental data
+Warning: Sample at -73.200027, 19.691356 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.200027, 19.691356 which has no environmental data
+Warning: Sample at -73.200027, 19.691356 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.200027, 19.691356 which has no environmental data
+Warning: Sample at -73.200027, 19.691356 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.200027, 19.691356 which has no environmental data
+Warning: Sample at -73.200403, 19.692736 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.200403, 19.692736 which has no environmental data
+Warning: Sample at -73.200403, 19.692736 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.200403, 19.692736 which has no environmental data
+Warning: Sample at -72.552937, 19.692766 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.552937, 19.692766 which has no environmental data
+Warning: Sample at -71.89539, 19.67654 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.89539, 19.67654 which has no environmental data
+Warning: Sample at -73.211532, 19.667006 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.211532, 19.667006 which has no environmental data
+Warning: Sample at -73.121162, 19.66777 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.121162, 19.66777 which has no environmental data
+Warning: Sample at -72.676419, 19.67143 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.676419, 19.67143 which has no environmental data
+Warning: Sample at -72.109167, 19.669372 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.109167, 19.669372 which has no environmental data
+Warning: Sample at -72.033497, 19.669899 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.033497, 19.669899 which has no environmental data
+Warning: Sample at -72.03, 19.67 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.03, 19.67 which has no environmental data
+Warning: Sample at -71.838169, 19.666978 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.838169, 19.666978 which has no environmental data
+Warning: Sample at -72.409327, 19.657875 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.409327, 19.657875 which has no environmental data
+Warning: Sample at -71.81329999, 19.6625 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.81329999, 19.6625 which has no environmental data
+Warning: Sample at -72.719826, 19.645904 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.719826, 19.645904 which has no environmental data
+Warning: Sample at -72.918254, 19.63385 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.918254, 19.63385 which has no environmental data
+Warning: Sample at -71.95353, 19.63692 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.95353, 19.63692 which has no environmental data
+Warning: Sample at -73.147942, 19.62502 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.147942, 19.62502 which has no environmental data
+Warning: Sample at -72.25859, 19.616204 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.25859, 19.616204 which has no environmental data
+Warning: Sample at -72.185256, 19.622511 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.185256, 19.622511 which has no environmental data
+Warning: Sample at -72.025337, 19.615829 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.025337, 19.615829 which has no environmental data
+Warning: Sample at -71.779926, 19.616237 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.779926, 19.616237 which has no environmental data
+Warning: Sample at -72.20955, 19.61004 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.20955, 19.61004 which has no environmental data
+Warning: Sample at -72.026882, 19.61219 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.026882, 19.61219 which has no environmental data
+Warning: Sample at -72.780749, 19.598861 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.780749, 19.598861 which has no environmental data
+Warning: Sample at -72.478901, 19.594519 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.478901, 19.594519 which has no environmental data
+Warning: Sample at -72.4693, 19.59744 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.4693, 19.59744 which has no environmental data
+Warning: Sample at -72.08897, 19.58331 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.08897, 19.58331 which has no environmental data
+Warning: Sample at -72.01622, 19.586232 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.01622, 19.586232 which has no environmental data
+Warning: Sample at -72.170402, 19.579456 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.170402, 19.579456 which has no environmental data
+Warning: Sample at -71.936838, 19.572695 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.936838, 19.572695 which has no environmental data
+Warning: Sample at -71.93684, 19.5727 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.93684, 19.5727 which has no environmental data
+Warning: Sample at -72.643786, 19.526274 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.643786, 19.526274 which has no environmental data
+Warning: Sample at -72.244629, 19.526685 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.244629, 19.526685 which has no environmental data
+Warning: Sample at -72.361379, 19.51827 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.361379, 19.51827 which has no environmental data
+Warning: Sample at -71.921786, 19.521274 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.921786, 19.521274 which has no environmental data
+Warning: Sample at -71.881861, 19.520589 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.881861, 19.520589 which has no environmental data
+Warning: Sample at -71.810629, 19.49752 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.810629, 19.49752 which has no environmental data
+Warning: Sample at -72.480701, 19.483752 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.480701, 19.483752 which has no environmental data
+Warning: Sample at -72.04999, 19.48332 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.04999, 19.48332 which has no environmental data
+Warning: Sample at -72.66656, 19.47498 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.66656, 19.47498 which has no environmental data
+Warning: Sample at -72.114234, 19.469415 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.114234, 19.469415 which has no environmental data
+Warning: Sample at -72.695, 19.44306 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.695, 19.44306 which has no environmental data
+Warning: Sample at -72.438467, 19.441674 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.438467, 19.441674 which has no environmental data
+Warning: Sample at -72.20052, 19.44098 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.20052, 19.44098 which has no environmental data
+Warning: Sample at -72.20052, 19.44098 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.20052, 19.44098 which has no environmental data
+Warning: Sample at -71.954483, 19.443536 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.954483, 19.443536 which has no environmental data
+Warning: Sample at -71.769143, 19.444542 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.769143, 19.444542 which has no environmental data
+Warning: Sample at -71.92063, 19.43489 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.92063, 19.43489 which has no environmental data
+Warning: Sample at -72.478343, 19.410211 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.478343, 19.410211 which has no environmental data
+Warning: Sample at -72.082868, 19.410437 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.082868, 19.410437 which has no environmental data
+Warning: Sample at -71.784737, 19.387403 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.784737, 19.387403 which has no environmental data
+Warning: Sample at -71.827867, 19.378079 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.827867, 19.378079 which has no environmental data
+Warning: Sample at -72.334125, 19.370787 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.334125, 19.370787 which has no environmental data
+Warning: Sample at -71.98528, 19.36856 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.98528, 19.36856 which has no environmental data
+Warning: Sample at -71.821034, 19.352602 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.821034, 19.352602 which has no environmental data
+Warning: Sample at -72.023904, 19.338179 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.023904, 19.338179 which has no environmental data
+Warning: Sample at -71.891689, 19.332211 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.891689, 19.332211 which has no environmental data
+Warning: Sample at -72.11892, 19.330426 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.11892, 19.330426 which has no environmental data
+Warning: Sample at -72.431867, 19.314418 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.431867, 19.314418 which has no environmental data
+Warning: Sample at -72.61005, 19.30483 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.61005, 19.30483 which has no environmental data
+Warning: Sample at -71.933998, 19.267771 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.933998, 19.267771 which has no environmental data
+Warning: Sample at -72.516821, 19.261275 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.516821, 19.261275 which has no environmental data
+Warning: Sample at -72.689717, 19.256353 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.689717, 19.256353 which has no environmental data
+Warning: Sample at -72.341266, 19.173888 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.341266, 19.173888 which has no environmental data
+Warning: Sample at -72.138886, 19.176316 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.138886, 19.176316 which has no environmental data
+Warning: Sample at -71.907128, 19.166856 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.907128, 19.166856 which has no environmental data
+Warning: Sample at -71.790428, 19.168004 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.790428, 19.168004 which has no environmental data
+Warning: Sample at -71.790429, 19.168005 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.790429, 19.168005 which has no environmental data
+Warning: Sample at -72.006075, 19.164706 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.006075, 19.164706 which has no environmental data
+Warning: Sample at -72.041447, 19.153611 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.041447, 19.153611 which has no environmental data
+Warning: Sample at -71.916731, 19.155508 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.916731, 19.155508 which has no environmental data
+Warning: Sample at -72.019037, 19.144339 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.019037, 19.144339 which has no environmental data
+Warning: Sample at -72.114809, 19.128249 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.114809, 19.128249 which has no environmental data
+Warning: Sample at -72.477194, 19.121192 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.477194, 19.121192 which has no environmental data
+Warning: Sample at -72.699036, 19.113489 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.699036, 19.113489 which has no environmental data
+Warning: Sample at -72.303965, 19.107753 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.303965, 19.107753 which has no environmental data
+Warning: Sample at -72.097623, 19.106075 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.097623, 19.106075 which has no environmental data
+Warning: Sample at -71.83926, 19.0827 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.83926, 19.0827 which has no environmental data
+Warning: Sample at -72.491499, 19.074761 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.491499, 19.074761 which has no environmental data
+Warning: Sample at -72.090455, 19.077812 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.090455, 19.077812 which has no environmental data
+Warning: Sample at -72.082558, 19.067701 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.082558, 19.067701 which has no environmental data
+Warning: Sample at -72.05128, 19.0677 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.05128, 19.0677 which has no environmental data
+Warning: Sample at -72.467605, 19.050792 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.467605, 19.050792 which has no environmental data
+Warning: Sample at -71.96961, 19.02617 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.96961, 19.02617 which has no environmental data
+Warning: Sample at -71.964794, 19.017612 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.964794, 19.017612 which has no environmental data
+Warning: Sample at -72.2, 18.967 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.2, 18.967 which has no environmental data
+Warning: Sample at -72.584796, 18.924011 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.584796, 18.924011 which has no environmental data
+Warning: Sample at -72.14778, 18.92361 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.14778, 18.92361 which has no environmental data
+Warning: Sample at -72.08448, 18.91547 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.08448, 18.91547 which has no environmental data
+Warning: Sample at -72.316337, 18.914082 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.316337, 18.914082 which has no environmental data
+Warning: Sample at -72.52944, 18.8925 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.52944, 18.8925 which has no environmental data
+Warning: Sample at -72.528843, 18.883951 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.528843, 18.883951 which has no environmental data
+Warning: Sample at -72.538611, 18.865544 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.538611, 18.865544 which has no environmental data
+Warning: Sample at -72.506603, 18.86201 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.506603, 18.86201 which has no environmental data
+Warning: Sample at -71.81155, 18.863227 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.81155, 18.863227 which has no environmental data
+Warning: Sample at -72.578958, 18.842546 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.578958, 18.842546 which has no environmental data
+Warning: Sample at -72.862258, 18.833953 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.862258, 18.833953 which has no environmental data
+Warning: Sample at -71.93, 18.833479 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.93, 18.833479 which has no environmental data
+Warning: Sample at -71.935658, 18.831787 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.935658, 18.831787 which has no environmental data
+Warning: Sample at -72.201872, 18.818461 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.201872, 18.818461 which has no environmental data
+Warning: Sample at -71.782641, 18.800683 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.782641, 18.800683 which has no environmental data
+Warning: Sample at -72.081949, 18.785057 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.081949, 18.785057 which has no environmental data
+Warning: Sample at -72.514, 18.77 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.514, 18.77 which has no environmental data
+Warning: Sample at -71.841443, 18.74609 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.841443, 18.74609 which has no environmental data
+Warning: Sample at -72.432711, 18.732336 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.432711, 18.732336 which has no environmental data
+Warning: Sample at -72.4175, 18.73583 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.4175, 18.73583 which has no environmental data
+Warning: Sample at -72.243465, 18.662042 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.243465, 18.662042 which has no environmental data
+Warning: Sample at -72.100325, 18.657014 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.100325, 18.657014 which has no environmental data
+Warning: Sample at -72.25139, 18.65615 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.25139, 18.65615 which has no environmental data
+Warning: Sample at -72.165039, 18.65232 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.165039, 18.65232 which has no environmental data
+Warning: Sample at -72.093812, 18.653343 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.093812, 18.653343 which has no environmental data
+Warning: Sample at -71.8707, 18.654 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.8707, 18.654 which has no environmental data
+Warning: Sample at -71.8707, 18.654 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.8707, 18.654 which has no environmental data
+Warning: Sample at -71.8707, 18.654 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.8707, 18.654 which has no environmental data
+Warning: Sample at -71.8707, 18.654 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.8707, 18.654 which has no environmental data
+Warning: Sample at -71.8707, 18.654 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.8707, 18.654 which has no environmental data
+Warning: Sample at -72.15791, 18.61569 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.15791, 18.61569 which has no environmental data
+Warning: Sample at -72.287686, 18.615027 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.287686, 18.615027 which has no environmental data
+Warning: Sample at -72.335, 18.5831 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.335, 18.5831 which has no environmental data
+Warning: Sample at -72.330223, 18.587113 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.330223, 18.587113 which has no environmental data
+Warning: Sample at -72.330223, 18.587113 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.330223, 18.587113 which has no environmental data
+Warning: Sample at -72.330223, 18.587113 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.330223, 18.587113 which has no environmental data
+Warning: Sample at -72.317, 18.58816 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.317, 18.58816 which has no environmental data
+Warning: Sample at -72.30194, 18.58583 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.30194, 18.58583 which has no environmental data
+Warning: Sample at -72.30194, 18.58583 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.30194, 18.58583 which has no environmental data
+Warning: Sample at -72.32857, 18.57397 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.32857, 18.57397 which has no environmental data
+Warning: Sample at -72.2789, 18.576 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.2789, 18.576 which has no environmental data
+Warning: Sample at -72.271511, 18.579822 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.271511, 18.579822 which has no environmental data
+Warning: Sample at -72.21983, 18.578732 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.21983, 18.578732 which has no environmental data
+Warning: Sample at -73.601459, 18.569871 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.601459, 18.569871 which has no environmental data
+Warning: Sample at -72.291467, 18.570417 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.291467, 18.570417 which has no environmental data
+Warning: Sample at -72.291467, 18.570417 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.291467, 18.570417 which has no environmental data
+Warning: Sample at -72.25124, 18.56953 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.25124, 18.56953 which has no environmental data
+Warning: Sample at -72.250774, 18.571183 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.250774, 18.571183 which has no environmental data
+Warning: Sample at -72.25368, 18.57037 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.25368, 18.57037 which has no environmental data
+Warning: Sample at -72.25094, 18.57114 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.25094, 18.57114 which has no environmental data
+Warning: Sample at -72.184344, 18.565067 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.184344, 18.565067 which has no environmental data
+Warning: Sample at -72.335956, 18.564167 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.335956, 18.564167 which has no environmental data
+Warning: Sample at -72.3381, 18.5628 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.3381, 18.5628 which has no environmental data
+Warning: Sample at -72.31607, 18.55959 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.31607, 18.55959 which has no environmental data
+Warning: Sample at -72.282468, 18.564533 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.282468, 18.564533 which has no environmental data
+Warning: Sample at -72.258098, 18.559297 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.258098, 18.559297 which has no environmental data
+Warning: Sample at -72.417685, 18.551715 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.417685, 18.551715 which has no environmental data
+Warning: Sample at -72.41, 18.552222 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.41, 18.552222 which has no environmental data
+Warning: Sample at -72.327225, 18.549723 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.327225, 18.549723 which has no environmental data
+Warning: Sample at -72.32722, 18.54972 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.32722, 18.54972 which has no environmental data
+Warning: Sample at -72.32408, 18.548873 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.32408, 18.548873 which has no environmental data
+Warning: Sample at -72.29868, 18.556169 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.29868, 18.556169 which has no environmental data
+Warning: Sample at -73.79928, 18.54121 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.79928, 18.54121 which has no environmental data
+Warning: Sample at -72.529408, 18.541851 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.529408, 18.541851 which has no environmental data
+Warning: Sample at -72.42636, 18.54185 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.42636, 18.54185 which has no environmental data
+Warning: Sample at -72.342822, 18.544218 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.342822, 18.544218 which has no environmental data
+Warning: Sample at -72.337, 18.54 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.337, 18.54 which has no environmental data
+Warning: Sample at -72.31, 18.54 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.31, 18.54 which has no environmental data
+Warning: Sample at -72.278946, 18.541257 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.278946, 18.541257 which has no environmental data
+Warning: Sample at -72.269684, 18.546322 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.269684, 18.546322 which has no environmental data
+Warning: Sample at -72.269684, 18.546322 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.269684, 18.546322 which has no environmental data
+Warning: Sample at -72.269684, 18.546322 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.269684, 18.546322 which has no environmental data
+Warning: Sample at -72.407454, 18.538261 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.407454, 18.538261 which has no environmental data
+Warning: Sample at -72.407201, 18.536369 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.407201, 18.536369 which has no environmental data
+Warning: Sample at -72.35109, 18.53368 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.35109, 18.53368 which has no environmental data
+Warning: Sample at -72.3502, 18.535 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.3502, 18.535 which has no environmental data
+Warning: Sample at -72.3502, 18.535 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.3502, 18.535 which has no environmental data
+Warning: Sample at -72.33334, 18.53333 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.33334, 18.53333 which has no environmental data
+Warning: Sample at -72.33334, 18.53333 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.33334, 18.53333 which has no environmental data
+Warning: Sample at -72.33996, 18.53991 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.33996, 18.53991 which has no environmental data
+Warning: Sample at -72.3015, 18.5382 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.3015, 18.5382 which has no environmental data
+Warning: Sample at -72.166626, 18.536011 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.166626, 18.536011 which has no environmental data
+Warning: Sample at -73.509668, 18.527401 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.509668, 18.527401 which has no environmental data
+Warning: Sample at -72.38479, 18.52712 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.38479, 18.52712 which has no environmental data
+Warning: Sample at -72.387628, 18.524526 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.387628, 18.524526 which has no environmental data
+Warning: Sample at -72.38699, 18.53127 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.38699, 18.53127 which has no environmental data
+Warning: Sample at -72.36949, 18.52393 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.36949, 18.52393 which has no environmental data
+Warning: Sample at -72.36687, 18.53058 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.36687, 18.53058 which has no environmental data
+Warning: Sample at -72.344465, 18.526757 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.344465, 18.526757 which has no environmental data
+Warning: Sample at -72.34, 18.53 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.34, 18.53 which has no environmental data
+Warning: Sample at -72.333754, 18.52593 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.333754, 18.52593 which has no environmental data
+Warning: Sample at -72.335068, 18.525922 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.335068, 18.525922 which has no environmental data
+Warning: Sample at -72.3401, 18.52466 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.3401, 18.52466 which has no environmental data
+Warning: Sample at -72.335068, 18.525922 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.335068, 18.525922 which has no environmental data
+Warning: Sample at -72.335068, 18.525922 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.335068, 18.525922 which has no environmental data
+Warning: Sample at -72.33, 18.53 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.33, 18.53 which has no environmental data
+Warning: Sample at -72.31873, 18.52353 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.31873, 18.52353 which has no environmental data
+Warning: Sample at -72.318296, 18.52455 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.318296, 18.52455 which has no environmental data
+Warning: Sample at -72.31101, 18.53023 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.31101, 18.53023 which has no environmental data
+Warning: Sample at -72.272398, 18.525536 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.272398, 18.525536 which has no environmental data
+Warning: Sample at -72.3399, 18.52 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.3399, 18.52 which has no environmental data
+Warning: Sample at -72.2921, 18.51622 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.2921, 18.51622 which has no environmental data
+Warning: Sample at -72.242125, 18.520279 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.242125, 18.520279 which has no environmental data
+Warning: Sample at -72.2026, 18.5168 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.2026, 18.5168 which has no environmental data
+Warning: Sample at -72.63389, 18.51083 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.63389, 18.51083 which has no environmental data
+Warning: Sample at -72.6238, 18.508696 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.6238, 18.508696 which has no environmental data
+Warning: Sample at -72.51, 18.51 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.51, 18.51 which has no environmental data
+Warning: Sample at -73.342236, 18.5035 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.342236, 18.5035 which has no environmental data
+Warning: Sample at -72.408805, 18.501964 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.408805, 18.501964 which has no environmental data
+Warning: Sample at -72.3, 18.5 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.3, 18.5 which has no environmental data
+Warning: Sample at -73.824715, 18.493513 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.824715, 18.493513 which has no environmental data
+Warning: Sample at -72.319874, 18.494483 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.319874, 18.494483 which has no environmental data
+Warning: Sample at -71.952369, 18.491795 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.952369, 18.491795 which has no environmental data
+Warning: Sample at -73.707, 18.483 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.707, 18.483 which has no environmental data
+Warning: Sample at -73.707, 18.483 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.707, 18.483 which has no environmental data
+Warning: Sample at -72.312804, 18.485881 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.312804, 18.485881 which has no environmental data
+Warning: Sample at -73.242491, 18.47629 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.242491, 18.47629 which has no environmental data
+Warning: Sample at -72.25, 18.48 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.25, 18.48 which has no environmental data
+Warning: Sample at -72.411097, 18.466024 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.411097, 18.466024 which has no environmental data
+Warning: Sample at -72.293916, 18.467037 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.293916, 18.467037 which has no environmental data
+Warning: Sample at -72.29489, 18.46733 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.29489, 18.46733 which has no environmental data
+Warning: Sample at -72.277141, 18.468282 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.277141, 18.468282 which has no environmental data
+Warning: Sample at -73.521876, 18.453494 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.521876, 18.453494 which has no environmental data
+Warning: Sample at -73.379997, 18.446814 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.379997, 18.446814 which has no environmental data
+Warning: Sample at -73.094948, 18.442982 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.094948, 18.442982 which has no environmental data
+Warning: Sample at -72.293199, 18.44265 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.293199, 18.44265 which has no environmental data
+Warning: Sample at -72.86469, 18.434144 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.86469, 18.434144 which has no environmental data
+Warning: Sample at -72.771276, 18.427386 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.771276, 18.427386 which has no environmental data
+Warning: Sample at -72.76937, 18.42852 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.76937, 18.42852 which has no environmental data
+Warning: Sample at -72.7706, 18.429 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.7706, 18.429 which has no environmental data
+Warning: Sample at -73.144778, 18.419083 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.144778, 18.419083 which has no environmental data
+Warning: Sample at -72.943915, 18.416735 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.943915, 18.416735 which has no environmental data
+Warning: Sample at -72.268123, 18.41926 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.268123, 18.41926 which has no environmental data
+Warning: Sample at -73.008042, 18.411898 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.008042, 18.411898 which has no environmental data
+Warning: Sample at -72.289664, 18.404312 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.289664, 18.404312 which has no environmental data
+Warning: Sample at -73.015871, 18.393524 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.015871, 18.393524 which has no environmental data
+Warning: Sample at -72.747658, 18.392586 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.747658, 18.392586 which has no environmental data
+Warning: Sample at -71.854171, 18.393975 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -71.854171, 18.393975 which has no environmental data
+Warning: Sample at -73.415095, 18.383447 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.415095, 18.383447 which has no environmental data
+Warning: Sample at -72.926925, 18.383598 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.926925, 18.383598 which has no environmental data
+Warning: Sample at -72.92833, 18.376056 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.92833, 18.376056 which has no environmental data
+Warning: Sample at -72.931574, 18.376594 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.931574, 18.376594 which has no environmental data
+Warning: Sample at -72.147662, 18.373801 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.147662, 18.373801 which has no environmental data
+Warning: Sample at -73.723056, 18.356946 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.723056, 18.356946 which has no environmental data
+Warning: Sample at -73.230876, 18.361188 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.230876, 18.361188 which has no environmental data
+Warning: Sample at -73.841246, 18.352225 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.841246, 18.352225 which has no environmental data
+Warning: Sample at -72.998438, 18.348627 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.998438, 18.348627 which has no environmental data
+Warning: Sample at -72.716747, 18.348789 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.716747, 18.348789 which has no environmental data
+Warning: Sample at -73.632535, 18.342617 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -73.632535, 18.342617 which has no environmental data
+Warning: Sample at -72.942297, 18.341397 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.942297, 18.341397 which has no environmental data
+Warning: Sample at -72.471908, 18.333388 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.471908, 18.333388 which has no environmental data
+Warning: Sample at -72.498465, 18.327299 in cholera.csv is missing some environmental data (e.g. HTI_water_areas)
+Warning: Skipping sample at -72.498465, 18.327299 which has no environmental data
+298 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife outputdirectory=/Users/matteo/Documents/MaxEntHaiti/outputwaterareas samplesfile=/Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv environmentallayers=/Users/matteo/Documents/MaxEntHaiti/layers/wareas randomseed writebackgroundpredictions responsecurvesexponent writeplotdata fadebyclamping appendtoresultsfile
+Species: cholera
+Layers: HTI_water_areas
+Layertypes: Continuous
+responsecurves: true
+jackknife: true
+outputdirectory: /Users/matteo/Documents/MaxEntHaiti/outputwaterareas
+samplesfile: /Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv
+environmentallayers: /Users/matteo/Documents/MaxEntHaiti/layers/wareas
+randomseed: true
+writebackgroundpredictions: true
+responsecurvesexponent: true
+writeplotdata: true
+fadebyclamping: true
+appendtoresultsfile: true
+
+getSamples: max memory 1908932608, total allocated 530055168, free 108392056, used 421663112, increment 1856720
+Making features
+makeFeatures: max memory 1908932608, total allocated 530055168, free 108392056, used 421663112, increment 0
+cholera: 
+Regularization values: linear/quadratic/product: 1.000, categorical: 0.635, threshold: 1.990, hinge: 0.500
+1 samples
+Density: max memory 1908932608, total allocated 530055168, free 107732032, used 422323136, increment 660024
+linearPredictor: max memory 1908932608, total allocated 530055168, free 107732032, used 422323136, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 530055168, free 107732032, used 422323136, increment 0
+Sequential: max memory 1908932608, total allocated 530055168, free 107732032, used 422323136, increment 0
+Initial loss: 5.697093486505405
+20: time = 0.000000 loss = 5.697093
+Resulting gain: 0.0
+Time since start: 1.138
+Leaving out Fixed cumulative value 1 from threshold table, as uninitialized
+Leaving out Fixed cumulative value 5 from threshold table, as uninitialized
+Leaving out Fixed cumulative value 10 from threshold table, as uninitialized
+Projecting...
+Writing file /Users/matteo/Documents/MaxEntHaiti/outputwaterareas/cholera.asc
+Writing /Users/matteo/Documents/MaxEntHaiti/outputwaterareas/plots/cholera.png
+cholera response curves
+Response curve: only HTI_water_areas
+Making features
+makeFeatures: max memory 1908932608, total allocated 530055168, free 50949488, used 479105680, increment 56782544
+cholera HTI_water_areas: 
+Regularization values: linear/quadratic/product: 1.000, categorical: 0.635, threshold: 1.990, hinge: 0.500
+1 samples
+Density: max memory 1908932608, total allocated 530055168, free 50949488, used 479105680, increment 0
+linearPredictor: max memory 1908932608, total allocated 530055168, free 50949488, used 479105680, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 530055168, free 50949488, used 479105680, increment 0
+Sequential: max memory 1908932608, total allocated 530055168, free 50949488, used 479105680, increment 0
+Initial loss: 5.697093486505405
+20: time = 0.000000 loss = 5.697093
+Resulting gain: 0.0
+cholera response curves
+Time since start: 2.17
+Ending

@@ -1,0 +1,172 @@
+Mon Nov 14 18:14:03 CST 2016
+MaxEnt version 3.3.3k
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/geo/HTI_alt.asc
+Checking header of /Users/matteo/Documents/MaxEntHaiti/layers/geo/HTI_cov.asc
+Reading samples from cholera.csv
+Read samples: max memory 1908932608, total allocated 592445440, free 460960192, used 131485248, increment -439804232
+Warning: Sample at 0.0, 0.0 in cholera.csv is outside the bounding box of environmental data, skipping
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/geo/HTI_alt.asc size 526573, max memory = 1908932608
+Reading file HTI_alt.asc
+FLOAT, 41452 pixels with data
+readGrid: max memory 1908932608, total allocated 592445440, free 435188648, used 157256792, increment 25771544
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/geo/maxent.cache/HTI_alt.mxe
+Converting file /Users/matteo/Documents/MaxEntHaiti/layers/geo/HTI_cov.asc size 303429, max memory = 1908932608
+Reading file HTI_cov.asc
+FLOAT, 102672 pixels with data
+readGrid: max memory 1908932608, total allocated 592445440, free 408999408, used 183446032, increment 26189240
+Writing file /Users/matteo/Documents/MaxEntHaiti/layers/geo/maxent.cache/HTI_cov.mxe
+Extractor: max memory 1908932608, total allocated 592445440, free 408314704, used 184130736, increment 684704
+Extracting random background and sample data
+Warning: Sample at -72.61747, 19.89172 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.61747, 19.89172
+Warning: Sample at -72.620316, 19.892075 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.620316, 19.892075
+Warning: Sample at -73.892602, 18.567626 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -73.892602, 18.567626
+Warning: Sample at -72.417685, 18.551715 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.417685, 18.551715
+Warning: Sample at -72.41, 18.552222 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.41, 18.552222
+Warning: Sample at -72.42636, 18.54185 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.42636, 18.54185
+Warning: Sample at -72.35109, 18.53368 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.35109, 18.53368
+Warning: Sample at -72.3502, 18.535 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.3502, 18.535
+Warning: Sample at -72.3502, 18.535 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.3502, 18.535
+Warning: Sample at -73.509668, 18.527401 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -73.509668, 18.527401
+Warning: Sample at -73.242491, 18.47629 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -73.242491, 18.47629
+Warning: Sample at -73.094948, 18.442982 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -73.094948, 18.442982
+Warning: Sample at -72.86469, 18.434144 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.86469, 18.434144
+Warning: Sample at -74.219134, 18.307596 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -74.219134, 18.307596
+Warning: Sample at -74.09752, 18.24903 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -74.09752, 18.24903
+Warning: Sample at -72.326376, 18.231652 in cholera.csv is missing some environmental data (e.g. HTI_alt)
+Warning: Skipping sample at -72.326376, 18.231652
+41452 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife outputdirectory=/Users/matteo/Documents/MaxEntHaiti/outputgeo samplesfile=/Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv environmentallayers=/Users/matteo/Documents/MaxEntHaiti/layers/geo randomseed writebackgroundpredictions responsecurvesexponent writeplotdata fadebyclamping appendtoresultsfile
+Species: cholera
+Layers: HTI_alt HTI_cov
+Layertypes: Continuous Continuous
+responsecurves: true
+jackknife: true
+outputdirectory: /Users/matteo/Documents/MaxEntHaiti/outputgeo
+samplesfile: /Users/matteo/Documents/MaxEntHaiti/samples/cholera.csv
+environmentallayers: /Users/matteo/Documents/MaxEntHaiti/layers/geo
+randomseed: true
+writebackgroundpredictions: true
+responsecurvesexponent: true
+writeplotdata: true
+fadebyclamping: true
+appendtoresultsfile: true
+
+getSamples: max memory 1908932608, total allocated 592445440, free 403933840, used 188511600, increment 4380864
+Making features
+makeFeatures: max memory 1908932608, total allocated 592445440, free 403931760, used 188513680, increment 2080
+cholera: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+334 samples
+Density: max memory 1908932608, total allocated 592445440, free 400863432, used 191582008, increment 3068328
+linearPredictor: max memory 1908932608, total allocated 592445440, free 400863432, used 191582008, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 592445440, free 400863432, used 191582008, increment 0
+Sequential: max memory 1908932608, total allocated 592445440, free 400863432, used 191582008, increment 0
+Initial loss: 9.21333588095598
+Time since start: 4.49
+380: time = 3.546000 loss = 9.097988
+Resulting gain: 0.11534783595866038
+Projecting...
+Writing file /Users/matteo/Documents/MaxEntHaiti/outputgeo/cholera.asc
+Writing /Users/matteo/Documents/MaxEntHaiti/outputgeo/plots/cholera.png
+Time since start: 6.37
+cholera response curves
+Response curve: only HTI_alt
+Making features
+makeFeatures: max memory 1908932608, total allocated 592445440, free 66004176, used 526441264, increment 334859256
+cholera HTI_alt: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+334 samples
+Density: max memory 1908932608, total allocated 592445440, free 63527480, used 528917960, increment 2476696
+linearPredictor: max memory 1908932608, total allocated 592445440, free 63527480, used 528917960, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 592445440, free 63527480, used 528917960, increment 0
+Sequential: max memory 1908932608, total allocated 592445440, free 63527480, used 528917960, increment 0
+Initial loss: 9.21333588095598
+Time since start: 9.54
+360: time = 2.264000 loss = 9.103446
+Resulting gain: 0.1098894470256706
+cholera response curves
+Response curve: only HTI_cov
+Making features
+makeFeatures: max memory 1908932608, total allocated 574095360, free 340665000, used 233430360, increment -295487600
+cholera HTI_cov: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+334 samples
+Density: max memory 1908932608, total allocated 574095360, free 340665000, used 233430360, increment 0
+linearPredictor: max memory 1908932608, total allocated 574095360, free 340665000, used 233430360, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 574095360, free 340665000, used 233430360, increment 0
+Sequential: max memory 1908932608, total allocated 574095360, free 340665000, used 233430360, increment 0
+Initial loss: 9.21333588095598
+Time since start: 10.878
+140: time = 0.813000 loss = 9.203324
+Resulting gain: 0.01001230659396235
+cholera response curves
+Jackknife: leave HTI_alt out
+Making features
+makeFeatures: max memory 1908932608, total allocated 574095360, free 325860784, used 248234576, increment 14804216
+cholera HTI_alt: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+334 samples
+Density: max memory 1908932608, total allocated 574095360, free 321063104, used 253032256, increment 4797680
+linearPredictor: max memory 1908932608, total allocated 574095360, free 321063104, used 253032256, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 574095360, free 321063104, used 253032256, increment 0
+Sequential: max memory 1908932608, total allocated 574095360, free 321063104, used 253032256, increment 0
+Initial loss: 9.21333588095598
+140: time = 0.464000 loss = 9.203324
+Jackknife: leave HTI_cov out
+Making features
+makeFeatures: max memory 1908932608, total allocated 574095360, free 317496080, used 256599280, increment 3567024
+cholera HTI_cov: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+334 samples
+Density: max memory 1908932608, total allocated 574095360, free 317496080, used 256599280, increment 0
+linearPredictor: max memory 1908932608, total allocated 574095360, free 317496080, used 256599280, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 574095360, free 317496080, used 256599280, increment 0
+Sequential: max memory 1908932608, total allocated 574095360, free 317496080, used 256599280, increment 0
+Initial loss: 9.21333588095598
+Time since start: 13.174
+360: time = 1.623000 loss = 9.103446
+Jackknife: only HTI_alt
+Making features
+makeFeatures: max memory 1908932608, total allocated 574095360, free 131734960, used 442360400, increment 185761120
+cholera HTI_alt: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+334 samples
+Density: max memory 1908932608, total allocated 574095360, free 131734960, used 442360400, increment 0
+linearPredictor: max memory 1908932608, total allocated 574095360, free 131734960, used 442360400, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 574095360, free 131734960, used 442360400, increment 0
+Sequential: max memory 1908932608, total allocated 574095360, free 131734960, used 442360400, increment 0
+Initial loss: 9.21333588095598
+Time since start: 14.507
+360: time = 1.307000 loss = 9.103446
+Res.gain: 0.1098894470256706
+Jackknife: only HTI_cov
+Making features
+makeFeatures: max memory 1908932608, total allocated 548405248, free 387707584, used 160697664, increment -281662736
+cholera HTI_cov: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+334 samples
+Density: max memory 1908932608, total allocated 548405248, free 387098992, used 161306256, increment 608592
+linearPredictor: max memory 1908932608, total allocated 548405248, free 387098992, used 161306256, increment 0
+FeaturedSpace: max memory 1908932608, total allocated 548405248, free 387098992, used 161306256, increment 0
+Sequential: max memory 1908932608, total allocated 548405248, free 387098992, used 161306256, increment 0
+Initial loss: 9.21333588095598
+140: time = 0.625000 loss = 9.203324
+Res.gain: 0.01001230659396235
+Ending
