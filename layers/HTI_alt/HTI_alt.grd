@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 14:29:29 
+[georeference] 
+nrows= 276 
+ncols= 372 
+xmin= -74.6 
+ymin= 17.9 
+xmax= -71.5 
+ymax= 20.2 
+projection= +proj=longlat +ellps=WGS84 
+[data] 
+datatype= INT2S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= -44 
+maxvalue= 2532 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= HTI_alt 
+history=  

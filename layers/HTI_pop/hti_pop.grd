@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 16:19:49 
+[georeference] 
+nrows= 376 
+ncols= 500 
+xmin= -74.6 
+ymin= 17.9 
+xmax= -71.5666666666667 
+ymax= 20.1833333333333 
+projection= +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0 
+[data] 
+datatype= INT2S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= 10 
+maxvalue= 5330 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= hti_pop 
+history=  
